@@ -17,7 +17,7 @@ p {
 
 h1 {
     color: white;
-    background-color: #003C56;
+    background-color: Red;
     font-size: 2em;
     margin: 0;
     margin-bottom: 7px;
@@ -27,12 +27,12 @@ h1 {
     letter-spacing: 0.5em;
     border-bottom-style: solid;
     border-bottom-width: 0.5em;
-    border-bottom-color: #7014A5;
+    border-bottom-color: #F08080;
 }
 
 h2 {
     color: white;
-    background-color: #003C56;
+    background-color: Red;
     font-size: 1.5em;
     margin: 0;
     padding: 2px;
@@ -54,6 +54,7 @@ img {
 
 a {
     text-decoration: none;
+	color: #FE5501
 }
 
 strong {
